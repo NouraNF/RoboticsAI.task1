@@ -31,3 +31,12 @@ sudo apt install -y ros-noetic-desktop-full
 echo "source /opt/ros/noetic/setup.bash" >> ~/.bashrc
 source ~/.bashrc
  ```
+3. create workplace:
+```
+bash
+mkdir -p ~/catkin_ws/src
+cd ~/catkin_ws
+catkin_make
+echo "source ~/catkin_ws/devel/setup.bash" >> ~/.bashrc
+source ~/.bashrc
+```   
