@@ -31,6 +31,7 @@ sudo apt install -y ros-noetic-desktop-full
 echo "source /opt/ros/noetic/setup.bash" >> ~/.bashrc
 source ~/.bashrc
  ```
+
 3. create workplace:
 ```
 bash
