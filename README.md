@@ -20,8 +20,8 @@ install ubuntu in vm:
 
 1. install ubuntu in vm.
 2. install ROS noetic:
-   ```
-   bash
+```   
+bash
 sudo apt update
 sudo apt install -y curl gnupg2 lsb-release
 curl -s https://raw.githubusercontent.com/ros/rosdistro/master/ros.asc | sudo apt-key add -
@@ -30,4 +30,4 @@ sudo apt update
 sudo apt install -y ros-noetic-desktop-full
 echo "source /opt/ros/noetic/setup.bash" >> ~/.bashrc
 source ~/.bashrc
-   ```
+ ```
