@@ -41,3 +41,11 @@ catkin_make
 echo "source ~/catkin_ws/devel/setup.bash" >> ~/.bashrc
 source ~/.bashrc
 ```   
+
+### Fifth step:
+install robot arm package:
+```
+bash
+sudo apt install ros-noetic-robot-arm-package
+```
+to inatall the package replace actual package name.
