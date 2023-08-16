@@ -2,6 +2,9 @@
 
 ## The first task of Robotics and AI department about download ROS:
 
+![255318005-9b8fe6c2-e1ec-46ff-a959-7fe0fcb72500](https://github.com/NouraNF/RoboticsAI.task1/assets/96024712/3342be6e-a2b9-4270-99ef-20d82752598e)
+
+
 ### First step: 
 
 download VirtualBox.
